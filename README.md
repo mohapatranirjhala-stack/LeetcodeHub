@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/mohapatranirjhala-stack/LeetcodeHub/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/mohapatranirjhala-stack/LeetcodeHub/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0133-clone-graph](https://github.com/mohapatranirjhala-stack/LeetcodeHub/tree/master/0133-clone-graph) |
 | [0217-contains-duplicate](https://github.com/mohapatranirjhala-stack/LeetcodeHub/tree/master/0217-contains-duplicate) |
 ## Linked List
 |  |
@@ -76,4 +77,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/mohapatranirjhala-stack/LeetcodeHub/tree/master/0011-container-with-most-water) |
+## Depth-First Search
+|  |
+| ------- |
+| [0133-clone-graph](https://github.com/mohapatranirjhala-stack/LeetcodeHub/tree/master/0133-clone-graph) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0133-clone-graph](https://github.com/mohapatranirjhala-stack/LeetcodeHub/tree/master/0133-clone-graph) |
+## Graph Theory
+|  |
+| ------- |
+| [0133-clone-graph](https://github.com/mohapatranirjhala-stack/LeetcodeHub/tree/master/0133-clone-graph) |
 <!---LeetCode Topics End-->
