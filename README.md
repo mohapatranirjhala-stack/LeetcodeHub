@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/mohapatranirjhala-stack/LeetcodeHub/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/mohapatranirjhala-stack/LeetcodeHub/tree/master/0238-product-of-array-except-self) |
 | [0417-pacific-atlantic-water-flow](https://github.com/mohapatranirjhala-stack/LeetcodeHub/tree/master/0417-pacific-atlantic-water-flow) |
+| [0435-non-overlapping-intervals](https://github.com/mohapatranirjhala-stack/LeetcodeHub/tree/master/0435-non-overlapping-intervals) |
 ## Hash Table
 |  |
 | ------- |
@@ -72,12 +73,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/mohapatranirjhala-stack/LeetcodeHub/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mohapatranirjhala-stack/LeetcodeHub/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/mohapatranirjhala-stack/LeetcodeHub/tree/master/0152-maximum-product-subarray) |
+| [0435-non-overlapping-intervals](https://github.com/mohapatranirjhala-stack/LeetcodeHub/tree/master/0435-non-overlapping-intervals) |
 ## Sorting
 |  |
 | ------- |
 | [0015-3sum](https://github.com/mohapatranirjhala-stack/LeetcodeHub/tree/master/0015-3sum) |
 | [0056-merge-intervals](https://github.com/mohapatranirjhala-stack/LeetcodeHub/tree/master/0056-merge-intervals) |
 | [0217-contains-duplicate](https://github.com/mohapatranirjhala-stack/LeetcodeHub/tree/master/0217-contains-duplicate) |
+| [0435-non-overlapping-intervals](https://github.com/mohapatranirjhala-stack/LeetcodeHub/tree/master/0435-non-overlapping-intervals) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -91,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/mohapatranirjhala-stack/LeetcodeHub/tree/master/0011-container-with-most-water) |
+| [0435-non-overlapping-intervals](https://github.com/mohapatranirjhala-stack/LeetcodeHub/tree/master/0435-non-overlapping-intervals) |
 ## Depth-First Search
 |  |
 | ------- |
