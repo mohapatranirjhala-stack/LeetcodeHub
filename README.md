@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/mohapatranirjhala-stack/LeetcodeHub/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0079-word-search](https://github.com/mohapatranirjhala-stack/LeetcodeHub/tree/master/0079-word-search) |
+| [0151-reverse-words-in-a-string](https://github.com/mohapatranirjhala-stack/LeetcodeHub/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/mohapatranirjhala-stack/LeetcodeHub/tree/master/0345-reverse-vowels-of-a-string) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/mohapatranirjhala-stack/LeetcodeHub/tree/master/1071-greatest-common-divisor-of-strings) |
 ## Sliding Window
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/mohapatranirjhala-stack/LeetcodeHub/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/mohapatranirjhala-stack/LeetcodeHub/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/mohapatranirjhala-stack/LeetcodeHub/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0151-reverse-words-in-a-string](https://github.com/mohapatranirjhala-stack/LeetcodeHub/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/mohapatranirjhala-stack/LeetcodeHub/tree/master/0345-reverse-vowels-of-a-string) |
 ## Greedy
 |  |
