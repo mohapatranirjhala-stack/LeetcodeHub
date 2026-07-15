@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/mohapatranirjhala-stack/LeetcodeHub/tree/master/0417-pacific-atlantic-water-flow) |
 | [0435-non-overlapping-intervals](https://github.com/mohapatranirjhala-stack/LeetcodeHub/tree/master/0435-non-overlapping-intervals) |
 | [0605-can-place-flowers](https://github.com/mohapatranirjhala-stack/LeetcodeHub/tree/master/0605-can-place-flowers) |
+| [0724-find-pivot-index](https://github.com/mohapatranirjhala-stack/LeetcodeHub/tree/master/0724-find-pivot-index) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/mohapatranirjhala-stack/LeetcodeHub/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1732-find-the-highest-altitude](https://github.com/mohapatranirjhala-stack/LeetcodeHub/tree/master/1732-find-the-highest-altitude) |
 ## Hash Table
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/mohapatranirjhala-stack/LeetcodeHub/tree/master/0238-product-of-array-except-self) |
+| [0724-find-pivot-index](https://github.com/mohapatranirjhala-stack/LeetcodeHub/tree/master/0724-find-pivot-index) |
 | [1732-find-the-highest-altitude](https://github.com/mohapatranirjhala-stack/LeetcodeHub/tree/master/1732-find-the-highest-altitude) |
 ## Two Pointers
 |  |
