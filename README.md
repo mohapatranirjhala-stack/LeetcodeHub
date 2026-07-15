@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/mohapatranirjhala-stack/LeetcodeHub/tree/master/0238-product-of-array-except-self) |
 | [0417-pacific-atlantic-water-flow](https://github.com/mohapatranirjhala-stack/LeetcodeHub/tree/master/0417-pacific-atlantic-water-flow) |
 | [0435-non-overlapping-intervals](https://github.com/mohapatranirjhala-stack/LeetcodeHub/tree/master/0435-non-overlapping-intervals) |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/mohapatranirjhala-stack/LeetcodeHub/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 ## Hash Table
 |  |
 | ------- |
