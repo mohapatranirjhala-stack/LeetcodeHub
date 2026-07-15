@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/mohapatranirjhala-stack/LeetcodeHub/tree/master/0605-can-place-flowers) |
 | [0724-find-pivot-index](https://github.com/mohapatranirjhala-stack/LeetcodeHub/tree/master/0724-find-pivot-index) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/mohapatranirjhala-stack/LeetcodeHub/tree/master/1431-kids-with-the-greatest-number-of-candies) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/mohapatranirjhala-stack/LeetcodeHub/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1732-find-the-highest-altitude](https://github.com/mohapatranirjhala-stack/LeetcodeHub/tree/master/1732-find-the-highest-altitude) |
 ## Hash Table
 |  |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/mohapatranirjhala-stack/LeetcodeHub/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/mohapatranirjhala-stack/LeetcodeHub/tree/master/0133-clone-graph) |
 | [0217-contains-duplicate](https://github.com/mohapatranirjhala-stack/LeetcodeHub/tree/master/0217-contains-duplicate) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/mohapatranirjhala-stack/LeetcodeHub/tree/master/1679-max-number-of-k-sum-pairs) |
 ## Linked List
 |  |
 | ------- |
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/mohapatranirjhala-stack/LeetcodeHub/tree/master/0056-merge-intervals) |
 | [0217-contains-duplicate](https://github.com/mohapatranirjhala-stack/LeetcodeHub/tree/master/0217-contains-duplicate) |
 | [0435-non-overlapping-intervals](https://github.com/mohapatranirjhala-stack/LeetcodeHub/tree/master/0435-non-overlapping-intervals) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/mohapatranirjhala-stack/LeetcodeHub/tree/master/1679-max-number-of-k-sum-pairs) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -118,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/mohapatranirjhala-stack/LeetcodeHub/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/mohapatranirjhala-stack/LeetcodeHub/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/mohapatranirjhala-stack/LeetcodeHub/tree/master/0443-string-compression) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/mohapatranirjhala-stack/LeetcodeHub/tree/master/1679-max-number-of-k-sum-pairs) |
 ## Greedy
 |  |
 | ------- |
