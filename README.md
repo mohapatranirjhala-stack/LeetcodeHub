@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/mohapatranirjhala-stack/LeetcodeHub/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/mohapatranirjhala-stack/LeetcodeHub/tree/master/0048-rotate-image) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/mohapatranirjhala-stack/LeetcodeHub/tree/master/1071-greatest-common-divisor-of-strings) |
 ## Recursion
 |  |
 | ------- |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/mohapatranirjhala-stack/LeetcodeHub/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0079-word-search](https://github.com/mohapatranirjhala-stack/LeetcodeHub/tree/master/0079-word-search) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/mohapatranirjhala-stack/LeetcodeHub/tree/master/1071-greatest-common-divisor-of-strings) |
 ## Sliding Window
 |  |
 | ------- |
