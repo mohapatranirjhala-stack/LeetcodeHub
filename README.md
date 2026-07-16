@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1071-greatest-common-divisor-of-strings](https://github.com/mohapatranirjhala-stack/LeetcodeHub/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/mohapatranirjhala-stack/LeetcodeHub/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1657-determine-if-two-strings-are-close](https://github.com/mohapatranirjhala-stack/LeetcodeHub/tree/master/1657-determine-if-two-strings-are-close) |
+| [2390-removing-stars-from-a-string](https://github.com/mohapatranirjhala-stack/LeetcodeHub/tree/master/2390-removing-stars-from-a-string) |
 ## Sliding Window
 |  |
 | ------- |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/mohapatranirjhala-stack/LeetcodeHub/tree/master/0054-spiral-matrix) |
 | [2352-equal-row-and-column-pairs](https://github.com/mohapatranirjhala-stack/LeetcodeHub/tree/master/2352-equal-row-and-column-pairs) |
+| [2390-removing-stars-from-a-string](https://github.com/mohapatranirjhala-stack/LeetcodeHub/tree/master/2390-removing-stars-from-a-string) |
 ## Backtracking
 |  |
 | ------- |
@@ -209,4 +211,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1657-determine-if-two-strings-are-close](https://github.com/mohapatranirjhala-stack/LeetcodeHub/tree/master/1657-determine-if-two-strings-are-close) |
+## Stack
+|  |
+| ------- |
+| [2390-removing-stars-from-a-string](https://github.com/mohapatranirjhala-stack/LeetcodeHub/tree/master/2390-removing-stars-from-a-string) |
 <!---LeetCode Topics End-->
