@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1679-max-number-of-k-sum-pairs](https://github.com/mohapatranirjhala-stack/LeetcodeHub/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1732-find-the-highest-altitude](https://github.com/mohapatranirjhala-stack/LeetcodeHub/tree/master/1732-find-the-highest-altitude) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/mohapatranirjhala-stack/LeetcodeHub/tree/master/2215-find-the-difference-of-two-arrays) |
+| [2352-equal-row-and-column-pairs](https://github.com/mohapatranirjhala-stack/LeetcodeHub/tree/master/2352-equal-row-and-column-pairs) |
 ## Hash Table
 |  |
 | ------- |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1657-determine-if-two-strings-are-close](https://github.com/mohapatranirjhala-stack/LeetcodeHub/tree/master/1657-determine-if-two-strings-are-close) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/mohapatranirjhala-stack/LeetcodeHub/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/mohapatranirjhala-stack/LeetcodeHub/tree/master/2215-find-the-difference-of-two-arrays) |
+| [2352-equal-row-and-column-pairs](https://github.com/mohapatranirjhala-stack/LeetcodeHub/tree/master/2352-equal-row-and-column-pairs) |
 ## Linked List
 |  |
 | ------- |
@@ -180,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/mohapatranirjhala-stack/LeetcodeHub/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/mohapatranirjhala-stack/LeetcodeHub/tree/master/0200-number-of-islands) |
 | [0417-pacific-atlantic-water-flow](https://github.com/mohapatranirjhala-stack/LeetcodeHub/tree/master/0417-pacific-atlantic-water-flow) |
+| [2352-equal-row-and-column-pairs](https://github.com/mohapatranirjhala-stack/LeetcodeHub/tree/master/2352-equal-row-and-column-pairs) |
 ## Union-Find
 |  |
 | ------- |
@@ -189,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/mohapatranirjhala-stack/LeetcodeHub/tree/master/0054-spiral-matrix) |
+| [2352-equal-row-and-column-pairs](https://github.com/mohapatranirjhala-stack/LeetcodeHub/tree/master/2352-equal-row-and-column-pairs) |
 ## Backtracking
 |  |
 | ------- |
