@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/mohapatranirjhala-stack/LeetcodeHub/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/mohapatranirjhala-stack/LeetcodeHub/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/mohapatranirjhala-stack/LeetcodeHub/tree/master/0206-reverse-linked-list) |
+| [0394-decode-string](https://github.com/mohapatranirjhala-stack/LeetcodeHub/tree/master/0394-decode-string) |
 ## String
 |  |
 | ------- |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/mohapatranirjhala-stack/LeetcodeHub/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/mohapatranirjhala-stack/LeetcodeHub/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/mohapatranirjhala-stack/LeetcodeHub/tree/master/0392-is-subsequence) |
+| [0394-decode-string](https://github.com/mohapatranirjhala-stack/LeetcodeHub/tree/master/0394-decode-string) |
 | [0443-string-compression](https://github.com/mohapatranirjhala-stack/LeetcodeHub/tree/master/0443-string-compression) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/mohapatranirjhala-stack/LeetcodeHub/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/mohapatranirjhala-stack/LeetcodeHub/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -216,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0394-decode-string](https://github.com/mohapatranirjhala-stack/LeetcodeHub/tree/master/0394-decode-string) |
 | [0735-asteroid-collision](https://github.com/mohapatranirjhala-stack/LeetcodeHub/tree/master/0735-asteroid-collision) |
 | [2390-removing-stars-from-a-string](https://github.com/mohapatranirjhala-stack/LeetcodeHub/tree/master/2390-removing-stars-from-a-string) |
 <!---LeetCode Topics End-->
