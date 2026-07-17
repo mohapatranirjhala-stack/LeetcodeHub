@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/mohapatranirjhala-stack/LeetcodeHub/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/mohapatranirjhala-stack/LeetcodeHub/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0072-edit-distance](https://github.com/mohapatranirjhala-stack/LeetcodeHub/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/mohapatranirjhala-stack/LeetcodeHub/tree/master/0079-word-search) |
 | [0151-reverse-words-in-a-string](https://github.com/mohapatranirjhala-stack/LeetcodeHub/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/mohapatranirjhala-stack/LeetcodeHub/tree/master/0345-reverse-vowels-of-a-string) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/mohapatranirjhala-stack/LeetcodeHub/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/mohapatranirjhala-stack/LeetcodeHub/tree/master/0062-unique-paths) |
+| [0072-edit-distance](https://github.com/mohapatranirjhala-stack/LeetcodeHub/tree/master/0072-edit-distance) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mohapatranirjhala-stack/LeetcodeHub/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/mohapatranirjhala-stack/LeetcodeHub/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/mohapatranirjhala-stack/LeetcodeHub/tree/master/0198-house-robber) |
