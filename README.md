@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/mohapatranirjhala-stack/LeetcodeHub/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/mohapatranirjhala-stack/LeetcodeHub/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/mohapatranirjhala-stack/LeetcodeHub/tree/master/0735-asteroid-collision) |
+| [0746-min-cost-climbing-stairs](https://github.com/mohapatranirjhala-stack/LeetcodeHub/tree/master/0746-min-cost-climbing-stairs) |
 | [0875-koko-eating-bananas](https://github.com/mohapatranirjhala-stack/LeetcodeHub/tree/master/0875-koko-eating-bananas) |
 | [0994-rotting-oranges](https://github.com/mohapatranirjhala-stack/LeetcodeHub/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/mohapatranirjhala-stack/LeetcodeHub/tree/master/1004-max-consecutive-ones-iii) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/mohapatranirjhala-stack/LeetcodeHub/tree/master/0152-maximum-product-subarray) |
 | [0392-is-subsequence](https://github.com/mohapatranirjhala-stack/LeetcodeHub/tree/master/0392-is-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/mohapatranirjhala-stack/LeetcodeHub/tree/master/0435-non-overlapping-intervals) |
+| [0746-min-cost-climbing-stairs](https://github.com/mohapatranirjhala-stack/LeetcodeHub/tree/master/0746-min-cost-climbing-stairs) |
 | [1137-n-th-tribonacci-number](https://github.com/mohapatranirjhala-stack/LeetcodeHub/tree/master/1137-n-th-tribonacci-number) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/mohapatranirjhala-stack/LeetcodeHub/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/mohapatranirjhala-stack/LeetcodeHub/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
