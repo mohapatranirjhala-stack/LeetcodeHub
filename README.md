@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/mohapatranirjhala-stack/LeetcodeHub/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/mohapatranirjhala-stack/LeetcodeHub/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/mohapatranirjhala-stack/LeetcodeHub/tree/master/0334-increasing-triplet-subsequence) |
+| [0399-evaluate-division](https://github.com/mohapatranirjhala-stack/LeetcodeHub/tree/master/0399-evaluate-division) |
 | [0417-pacific-atlantic-water-flow](https://github.com/mohapatranirjhala-stack/LeetcodeHub/tree/master/0417-pacific-atlantic-water-flow) |
 | [0435-non-overlapping-intervals](https://github.com/mohapatranirjhala-stack/LeetcodeHub/tree/master/0435-non-overlapping-intervals) |
 | [0605-can-place-flowers](https://github.com/mohapatranirjhala-stack/LeetcodeHub/tree/master/0605-can-place-flowers) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/mohapatranirjhala-stack/LeetcodeHub/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/mohapatranirjhala-stack/LeetcodeHub/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/mohapatranirjhala-stack/LeetcodeHub/tree/master/0394-decode-string) |
+| [0399-evaluate-division](https://github.com/mohapatranirjhala-stack/LeetcodeHub/tree/master/0399-evaluate-division) |
 | [0443-string-compression](https://github.com/mohapatranirjhala-stack/LeetcodeHub/tree/master/0443-string-compression) |
 | [0649-dota2-senate](https://github.com/mohapatranirjhala-stack/LeetcodeHub/tree/master/0649-dota2-senate) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/mohapatranirjhala-stack/LeetcodeHub/tree/master/1071-greatest-common-divisor-of-strings) |
@@ -170,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/mohapatranirjhala-stack/LeetcodeHub/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/mohapatranirjhala-stack/LeetcodeHub/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/mohapatranirjhala-stack/LeetcodeHub/tree/master/0207-course-schedule) |
+| [0399-evaluate-division](https://github.com/mohapatranirjhala-stack/LeetcodeHub/tree/master/0399-evaluate-division) |
 | [0417-pacific-atlantic-water-flow](https://github.com/mohapatranirjhala-stack/LeetcodeHub/tree/master/0417-pacific-atlantic-water-flow) |
 | [0437-path-sum-iii](https://github.com/mohapatranirjhala-stack/LeetcodeHub/tree/master/0437-path-sum-iii) |
 | [0547-number-of-provinces](https://github.com/mohapatranirjhala-stack/LeetcodeHub/tree/master/0547-number-of-provinces) |
@@ -187,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/mohapatranirjhala-stack/LeetcodeHub/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/mohapatranirjhala-stack/LeetcodeHub/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/mohapatranirjhala-stack/LeetcodeHub/tree/master/0207-course-schedule) |
+| [0399-evaluate-division](https://github.com/mohapatranirjhala-stack/LeetcodeHub/tree/master/0399-evaluate-division) |
 | [0417-pacific-atlantic-water-flow](https://github.com/mohapatranirjhala-stack/LeetcodeHub/tree/master/0417-pacific-atlantic-water-flow) |
 | [0547-number-of-provinces](https://github.com/mohapatranirjhala-stack/LeetcodeHub/tree/master/0547-number-of-provinces) |
 | [0841-keys-and-rooms](https://github.com/mohapatranirjhala-stack/LeetcodeHub/tree/master/0841-keys-and-rooms) |
@@ -198,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0133-clone-graph](https://github.com/mohapatranirjhala-stack/LeetcodeHub/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/mohapatranirjhala-stack/LeetcodeHub/tree/master/0207-course-schedule) |
+| [0399-evaluate-division](https://github.com/mohapatranirjhala-stack/LeetcodeHub/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/mohapatranirjhala-stack/LeetcodeHub/tree/master/0547-number-of-provinces) |
 | [0841-keys-and-rooms](https://github.com/mohapatranirjhala-stack/LeetcodeHub/tree/master/0841-keys-and-rooms) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/mohapatranirjhala-stack/LeetcodeHub/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
@@ -220,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/mohapatranirjhala-stack/LeetcodeHub/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/mohapatranirjhala-stack/LeetcodeHub/tree/master/0200-number-of-islands) |
+| [0399-evaluate-division](https://github.com/mohapatranirjhala-stack/LeetcodeHub/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/mohapatranirjhala-stack/LeetcodeHub/tree/master/0547-number-of-provinces) |
 ## Simulation
 |  |
@@ -293,4 +299,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0450-delete-node-in-a-bst](https://github.com/mohapatranirjhala-stack/LeetcodeHub/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/mohapatranirjhala-stack/LeetcodeHub/tree/master/0700-search-in-a-binary-search-tree) |
+## Shortest Path
+|  |
+| ------- |
+| [0399-evaluate-division](https://github.com/mohapatranirjhala-stack/LeetcodeHub/tree/master/0399-evaluate-division) |
 <!---LeetCode Topics End-->
