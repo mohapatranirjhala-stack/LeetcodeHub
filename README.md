@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/mohapatranirjhala-stack/LeetcodeHub/tree/master/0128-longest-consecutive-sequence) |
 | [0152-maximum-product-subarray](https://github.com/mohapatranirjhala-stack/LeetcodeHub/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/mohapatranirjhala-stack/LeetcodeHub/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0162-find-peak-element](https://github.com/mohapatranirjhala-stack/LeetcodeHub/tree/master/0162-find-peak-element) |
 | [0200-number-of-islands](https://github.com/mohapatranirjhala-stack/LeetcodeHub/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/mohapatranirjhala-stack/LeetcodeHub/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/mohapatranirjhala-stack/LeetcodeHub/tree/master/0217-contains-duplicate) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/mohapatranirjhala-stack/LeetcodeHub/tree/master/0004-median-of-two-sorted-arrays) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/mohapatranirjhala-stack/LeetcodeHub/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0162-find-peak-element](https://github.com/mohapatranirjhala-stack/LeetcodeHub/tree/master/0162-find-peak-element) |
 | [0374-guess-number-higher-or-lower](https://github.com/mohapatranirjhala-stack/LeetcodeHub/tree/master/0374-guess-number-higher-or-lower) |
 | [1004-max-consecutive-ones-iii](https://github.com/mohapatranirjhala-stack/LeetcodeHub/tree/master/1004-max-consecutive-ones-iii) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/mohapatranirjhala-stack/LeetcodeHub/tree/master/2300-successful-pairs-of-spells-and-potions) |
