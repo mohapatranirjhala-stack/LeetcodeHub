@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/mohapatranirjhala-stack/LeetcodeHub/tree/master/0443-string-compression) |
 | [0649-dota2-senate](https://github.com/mohapatranirjhala-stack/LeetcodeHub/tree/master/0649-dota2-senate) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/mohapatranirjhala-stack/LeetcodeHub/tree/master/1071-greatest-common-divisor-of-strings) |
+| [1143-longest-common-subsequence](https://github.com/mohapatranirjhala-stack/LeetcodeHub/tree/master/1143-longest-common-subsequence) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/mohapatranirjhala-stack/LeetcodeHub/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1657-determine-if-two-strings-are-close](https://github.com/mohapatranirjhala-stack/LeetcodeHub/tree/master/1657-determine-if-two-strings-are-close) |
 | [2390-removing-stars-from-a-string](https://github.com/mohapatranirjhala-stack/LeetcodeHub/tree/master/2390-removing-stars-from-a-string) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/mohapatranirjhala-stack/LeetcodeHub/tree/master/0746-min-cost-climbing-stairs) |
 | [0790-domino-and-tromino-tiling](https://github.com/mohapatranirjhala-stack/LeetcodeHub/tree/master/0790-domino-and-tromino-tiling) |
 | [1137-n-th-tribonacci-number](https://github.com/mohapatranirjhala-stack/LeetcodeHub/tree/master/1137-n-th-tribonacci-number) |
+| [1143-longest-common-subsequence](https://github.com/mohapatranirjhala-stack/LeetcodeHub/tree/master/1143-longest-common-subsequence) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/mohapatranirjhala-stack/LeetcodeHub/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/mohapatranirjhala-stack/LeetcodeHub/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Sorting
