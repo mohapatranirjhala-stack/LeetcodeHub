@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mohapatranirjhala-stack/LeetcodeHub/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/mohapatranirjhala-stack/LeetcodeHub/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/mohapatranirjhala-stack/LeetcodeHub/tree/master/0198-house-robber) |
+| [0338-counting-bits](https://github.com/mohapatranirjhala-stack/LeetcodeHub/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/mohapatranirjhala-stack/LeetcodeHub/tree/master/0392-is-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/mohapatranirjhala-stack/LeetcodeHub/tree/master/0435-non-overlapping-intervals) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/mohapatranirjhala-stack/LeetcodeHub/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
@@ -374,4 +375,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/mohapatranirjhala-stack/LeetcodeHub/tree/master/0062-unique-paths) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0338-counting-bits](https://github.com/mohapatranirjhala-stack/LeetcodeHub/tree/master/0338-counting-bits) |
 <!---LeetCode Topics End-->
