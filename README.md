@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/mohapatranirjhala-stack/LeetcodeHub/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/mohapatranirjhala-stack/LeetcodeHub/tree/master/0048-rotate-image) |
+| [0062-unique-paths](https://github.com/mohapatranirjhala-stack/LeetcodeHub/tree/master/0062-unique-paths) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/mohapatranirjhala-stack/LeetcodeHub/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1137-n-th-tribonacci-number](https://github.com/mohapatranirjhala-stack/LeetcodeHub/tree/master/1137-n-th-tribonacci-number) |
 ## Recursion
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/mohapatranirjhala-stack/LeetcodeHub/tree/master/0053-maximum-subarray) |
+| [0062-unique-paths](https://github.com/mohapatranirjhala-stack/LeetcodeHub/tree/master/0062-unique-paths) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mohapatranirjhala-stack/LeetcodeHub/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/mohapatranirjhala-stack/LeetcodeHub/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/mohapatranirjhala-stack/LeetcodeHub/tree/master/0198-house-robber) |
@@ -361,4 +363,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1137-n-th-tribonacci-number](https://github.com/mohapatranirjhala-stack/LeetcodeHub/tree/master/1137-n-th-tribonacci-number) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/mohapatranirjhala-stack/LeetcodeHub/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
